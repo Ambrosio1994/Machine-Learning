@@ -1,0 +1,25 @@
+# Quarentena de revisão (apague esta pasta após conferir)
+_lixeira_revisao/
+
+# Datasets e arquivos grandes locais
+train/
+Kaggle Competições/Datasets/
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Jupyter / Colab / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
